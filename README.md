@@ -1,6 +1,4 @@
-Hi I am Ishan
-High school passout at BKVM school
-studied cs in 11th and 12th
+
 
 
 ## 🌐 Socials:
